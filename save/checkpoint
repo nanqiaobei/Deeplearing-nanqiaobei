@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Guo\\Desktop\\flower_world-master\\save\\model.ckpt-9999"
+all_model_checkpoint_paths: "C:\\Users\\Guo\\Desktop\\flower_world-master\\save\\model.ckpt-9999"
